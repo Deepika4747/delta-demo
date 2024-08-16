@@ -4,5 +4,4 @@ This is a demo for git &amp; Github class.
 #Teacher
 deepika mallik
 
-#student
-deepika
+This is new class for github.
